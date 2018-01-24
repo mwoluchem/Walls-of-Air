@@ -17,12 +17,12 @@
 15,1982,Brazil,Various/Unknown,5400,0,0,0,0,0,0,5400
 16,1983,Brazil,Various/Unknown,5400,0,0,0,0,0,0,5400
 17,1984,Brazil,Uruguay,140,0,100,0,0,0,0,240
-18,1984,Brazil,Viet Nam,140,0,0,0,0,0,0,140
+18,1984,Brazil,Vietnam,140,0,0,0,0,0,0,140
 19,1984,Brazil,Various/Unknown,5020,0,0,0,0,0,0,5020
-20,1985,Brazil,Viet Nam,90,0,0,0,0,0,0,90
+20,1985,Brazil,Vietnam,90,0,0,0,0,0,0,90
 21,1985,Brazil,Various/Unknown,5210,0,50,0,0,0,0,5260
 22,1986,Brazil,Chile,70,0,0,0,0,0,0,70
-23,1986,Brazil,Viet Nam,90,0,0,0,0,0,0,90
+23,1986,Brazil,Vietnam,90,0,0,0,0,0,0,90
 24,1986,Brazil,Various/Unknown,5140,0,0,0,0,0,0,5140
 25,1987,Brazil,Various/Unknown,5280,0,0,0,0,0,0,5280
 26,1988,Brazil,Various/Unknown,5332,0,0,0,0,0,0,5332
@@ -61,7 +61,7 @@
 59,1995,Brazil,Sudan,15,0,0,0,0,0,0,15
 60,1995,Brazil,Somalia,11,0,0,0,0,0,0,11
 61,1995,Brazil,Serbia and Kosovo (S/RES/1244 (1999)),28,0,0,0,0,0,0,28
-62,1995,Brazil,Viet Nam,21,0,0,0,0,0,0,21
+62,1995,Brazil,Vietnam,21,0,0,0,0,0,0,21
 63,1995,Brazil,Various/Unknown,164,0,0,0,0,0,0,164
 64,1996,Brazil,Angola,1209,0,3,0,0,0,0,1212
 65,1996,Brazil,Argentina,15,0,0,0,0,0,0,15
@@ -80,7 +80,7 @@
 78,1996,Brazil,Sudan,9,0,0,0,0,0,0,9
 79,1996,Brazil,Somalia,10,0,0,0,0,0,0,10
 80,1996,Brazil,Serbia and Kosovo (S/RES/1244 (1999)),44,0,0,0,0,0,0,44
-81,1996,Brazil,Viet Nam,20,0,0,0,0,0,0,20
+81,1996,Brazil,Vietnam,20,0,0,0,0,0,0,20
 82,1996,Brazil,Various/Unknown,296,0,3,0,0,0,0,299
 83,1997,Brazil,Angola,1286,0,3,0,0,0,0,1289
 84,1997,Brazil,Argentina,14,0,0,0,0,0,0,14
@@ -102,7 +102,7 @@
 100,1997,Brazil,Sierra Leone,30,0,0,0,0,0,0,30
 101,1997,Brazil,Somalia,13,0,0,0,0,0,0,13
 102,1997,Brazil,Serbia and Kosovo (S/RES/1244 (1999)),44,0,0,0,0,0,0,44
-103,1997,Brazil,Viet Nam,20,0,0,0,0,0,0,20
+103,1997,Brazil,Vietnam,20,0,0,0,0,0,0,20
 104,1997,Brazil,Various/Unknown,123,0,0,0,0,0,0,123
 105,1998,Brazil,Angola,1271,0,1,0,0,0,0,1272
 106,1998,Brazil,Argentina,13,0,0,0,0,0,0,13
@@ -140,7 +140,7 @@
 138,1998,Brazil,Somalia,12,0,0,0,0,0,0,12
 139,1998,Brazil,Serbia and Kosovo (S/RES/1244 (1999)),49,0,0,0,0,0,0,49
 140,1998,Brazil,United Rep. of Tanzania,1,0,0,0,0,0,0,1
-141,1998,Brazil,Viet Nam,22,0,0,0,0,0,0,22
+141,1998,Brazil,Vietnam,22,0,0,0,0,0,0,22
 142,1998,Brazil,Various/Unknown,71,0,0,0,0,0,0,71
 143,1998,Brazil,South Africa,3,0,0,0,0,0,0,3
 144,1999,Brazil,Angola,1368,0,0,0,0,0,0,1368
@@ -179,7 +179,7 @@
 177,1999,Brazil,Somalia,9,0,0,0,0,0,0,9
 178,1999,Brazil,Serbia and Kosovo (S/RES/1244 (1999)),52,0,0,0,0,0,0,52
 179,1999,Brazil,United Rep. of Tanzania,1,0,0,0,0,0,0,1
-180,1999,Brazil,Viet Nam,22,0,0,0,0,0,0,22
+180,1999,Brazil,Vietnam,22,0,0,0,0,0,0,22
 181,1999,Brazil,Various/Unknown,38,0,0,0,0,0,0,38
 182,1999,Brazil,South Africa,3,0,0,0,0,0,0,3
 183,2000,Brazil,Afghanistan,3,0,0,0,0,0,0,3
@@ -232,7 +232,7 @@
 230,2000,Brazil,Serbia and Kosovo (S/RES/1244 (1999)),61,3,0,0,0,0,0,64
 231,2000,Brazil,Syrian Arab Rep.,5,0,0,0,0,0,0,5
 232,2000,Brazil,United Rep. of Tanzania,2,3,0,0,0,0,0,5
-233,2000,Brazil,Viet Nam,22,0,0,0,0,0,0,22
+233,2000,Brazil,Vietnam,22,0,0,0,0,0,0,22
 234,2000,Brazil,Various/Unknown,2,2,0,0,0,0,0,4
 235,2000,Brazil,South Africa,3,1,0,0,0,0,0,4
 236,2001,Brazil,Afghanistan,1,3,0,0,0,0,0,4
@@ -289,7 +289,7 @@
 287,2001,Brazil,Serbia and Kosovo (S/RES/1244 (1999)),64,0,0,0,0,0,0,64
 288,2001,Brazil,Syrian Arab Rep.,5,0,0,0,0,0,0,5
 289,2001,Brazil,United Rep. of Tanzania,5,4,0,0,0,0,0,9
-290,2001,Brazil,Viet Nam,22,0,0,0,0,0,0,22
+290,2001,Brazil,Vietnam,22,0,0,0,0,0,0,22
 291,2001,Brazil,South Africa,3,1,0,0,0,0,0,4
 292,2002,Brazil,Afghanistan,24,0,0,0,0,0,0,24
 293,2002,Brazil,Angola,1908,126,0,0,0,0,0,2034
@@ -345,7 +345,7 @@
 343,2002,Brazil,Serbia and Kosovo (S/RES/1244 (1999)),66,0,0,0,0,0,0,66
 344,2002,Brazil,Syrian Arab Rep.,5,1,0,0,0,0,0,6
 345,2002,Brazil,United Rep. of Tanzania,5,12,0,0,0,0,0,17
-346,2002,Brazil,Viet Nam,2,0,0,0,0,0,0,2
+346,2002,Brazil,Vietnam,2,0,0,0,0,0,0,2
 347,2002,Brazil,Various/Unknown,0,8,0,0,0,0,0,8
 348,2002,Brazil,South Africa,2,3,0,0,0,0,0,5
 349,2003,Brazil,Afghanistan,11,0,13,0,0,0,0,24
@@ -405,7 +405,7 @@
 403,2003,Brazil,Togo,0,3,0,0,0,0,0,3
 404,2003,Brazil,United Rep. of Tanzania,5,34,0,0,0,0,0,39
 405,2003,Brazil,Venezuela (Bolivarian Republic of),0,1,0,0,0,0,0,1
-406,2003,Brazil,Viet Nam,2,0,0,0,0,0,0,2
+406,2003,Brazil,Vietnam,2,0,0,0,0,0,0,2
 407,2003,Brazil,Various/Unknown,0,5,0,0,0,0,0,5
 408,2003,Brazil,South Africa,1,0,0,0,0,0,0,1
 409,2004,Brazil,Afghanistan,11,0,0,0,0,0,0,11
@@ -467,7 +467,7 @@
 465,2004,Brazil,Tunisia,0,3,0,0,0,0,0,3
 466,2004,Brazil,United Rep. of Tanzania,7,14,0,0,0,0,0,21
 467,2004,Brazil,Venezuela (Bolivarian Republic of),0,1,0,0,0,0,0,1
-468,2004,Brazil,Viet Nam,2,0,0,0,0,0,0,2
+468,2004,Brazil,Vietnam,2,0,0,0,0,0,0,2
 469,2004,Brazil,Various/Unknown,0,10,0,0,0,0,0,10
 470,2004,Brazil,South Africa,1,2,0,0,0,0,0,3
 471,2004,Brazil,Zimbabwe,1,0,0,0,0,0,0,1
@@ -537,7 +537,7 @@
 535,2005,Brazil,United Rep. of Tanzania,5,0,0,0,0,0,0,5
 536,2005,Brazil,Uruguay,1,3,0,0,0,0,0,4
 537,2005,Brazil,United States of America,1,0,0,0,0,0,0,1
-538,2005,Brazil,Viet Nam,4,0,0,0,0,0,0,4
+538,2005,Brazil,Vietnam,4,0,0,0,0,0,0,4
 539,2005,Brazil,South Africa,3,0,0,0,0,0,0,3
 540,2005,Brazil,Zimbabwe,1,0,0,0,0,0,0,1
 541,2006,Brazil,Afghanistan,3,0,0,0,0,0,0,3
@@ -611,7 +611,7 @@
 609,2006,Brazil,United Rep. of Tanzania,5,2,0,0,0,0,0,7
 610,2006,Brazil,Uruguay,1,0,0,0,0,0,0,1
 611,2006,Brazil,United States of America,1,0,0,0,0,0,0,1
-612,2006,Brazil,Viet Nam,4,0,0,0,0,0,0,4
+612,2006,Brazil,Vietnam,4,0,0,0,0,0,0,4
 613,2006,Brazil,Stateless,1,0,0,0,0,0,0,1
 614,2006,Brazil,South Africa,3,1,0,0,0,0,0,4
 615,2006,Brazil,Zimbabwe,1,0,0,0,0,0,0,1
@@ -693,7 +693,7 @@
 691,2007,Brazil,Uruguay,1,0,0,0,0,0,0,1
 692,2007,Brazil,United States of America,1,0,0,0,0,0,0,1
 693,2007,Brazil,Venezuela (Bolivarian Republic of),0,1,0,0,0,0,0,1
-694,2007,Brazil,Viet Nam,4,0,0,0,0,0,0,4
+694,2007,Brazil,Vietnam,4,0,0,0,0,0,0,4
 695,2007,Brazil,Stateless,1,0,0,0,0,0,0,1
 696,2007,Brazil,South Africa,3,1,0,0,0,0,0,4
 697,2007,Brazil,Zimbabwe,1,1,0,0,0,0,0,2
@@ -774,7 +774,7 @@
 772,2008,Brazil,United Rep. of Tanzania,5,1,0,0,0,0,0,6
 773,2008,Brazil,Uruguay,1,0,0,0,0,0,0,1
 774,2008,Brazil,United States of America,1,0,0,0,0,0,0,1
-775,2008,Brazil,Viet Nam,4,0,0,0,0,0,0,4
+775,2008,Brazil,Vietnam,4,0,0,0,0,0,0,4
 776,2008,Brazil,Stateless,1,1,0,0,0,0,0,2
 777,2008,Brazil,South Africa,3,0,0,0,0,0,0,3
 778,2008,Brazil,Zimbabwe,2,2,0,0,0,0,0,4
@@ -858,7 +858,7 @@
 856,2009,Brazil,United States of America,1,0,0,0,0,0,0,1
 857,2009,Brazil,Uzbekistan,0,1,0,0,0,0,0,1
 858,2009,Brazil,Venezuela (Bolivarian Republic of),0,1,0,0,0,0,0,1
-859,2009,Brazil,Viet Nam,4,0,0,0,0,0,0,4
+859,2009,Brazil,Vietnam,4,0,0,0,0,0,0,4
 860,2009,Brazil,Stateless,4,1,0,0,0,0,0,5
 861,2009,Brazil,South Africa,3,1,0,0,0,0,0,4
 862,2009,Brazil,Zimbabwe,4,0,0,0,0,0,0,4
@@ -940,7 +940,7 @@
 938,2010,Brazil,Uruguay,1,1,0,0,0,0,0,2
 939,2010,Brazil,United States of America,1,7,0,0,0,0,0,8
 940,2010,Brazil,Uzbekistan,0,1,0,0,0,0,0,1
-941,2010,Brazil,Viet Nam,4,0,0,0,0,0,0,4
+941,2010,Brazil,Vietnam,4,0,0,0,0,0,0,4
 942,2010,Brazil,Stateless,5,0,0,0,0,0,0,5
 943,2010,Brazil,South Africa,3,1,0,0,0,0,0,4
 944,2010,Brazil,Zimbabwe,4,1,0,0,0,0,0,5
@@ -1029,7 +1029,7 @@
 1027,2011,Brazil,United States of America,1,2,0,0,0,0,0,3
 1028,2011,Brazil,Uzbekistan,0,1,0,0,0,0,0,1
 1029,2011,Brazil,Venezuela (Bolivarian Republic of),3,5,0,0,0,0,0,8
-1030,2011,Brazil,Viet Nam,4,0,0,0,0,0,0,4
+1030,2011,Brazil,Vietnam,4,0,0,0,0,0,0,4
 1031,2011,Brazil,Stateless,5,1,0,0,0,0,0,6
 1032,2011,Brazil,South Africa,3,1,0,0,0,0,0,4
 1033,2011,Brazil,Zimbabwe,4,1,0,0,0,0,0,5
@@ -1120,7 +1120,7 @@
 1118,2012,Brazil,Uruguay,1,1,0,0,0,0,0,2
 1119,2012,Brazil,United States of America,1,2,0,0,0,0,0,3
 1120,2012,Brazil,Venezuela (Bolivarian Republic of),3,4,0,0,0,0,0,7
-1121,2012,Brazil,Viet Nam,4,0,0,0,0,0,0,4
+1121,2012,Brazil,Vietnam,4,0,0,0,0,0,0,4
 1122,2012,Brazil,Stateless,5,0,0,0,0,0,0,5
 1123,2012,Brazil,South Africa,3,0,0,0,0,0,0,3
 1124,2012,Brazil,Zimbabwe,4,0,0,0,0,0,0,4
@@ -1214,7 +1214,7 @@
 1212,2013,Brazil,Uruguay,1,1,0,0,0,0,0,2
 1213,2013,Brazil,United States of America,1,3,0,0,0,0,0,4
 1214,2013,Brazil,Venezuela (Bolivarian Republic of),14,9,0,0,0,0,0,23
-1215,2013,Brazil,Viet Nam,4,0,0,0,0,0,0,4
+1215,2013,Brazil,Vietnam,4,0,0,0,0,0,0,4
 1216,2013,Brazil,Stateless,8,0,0,0,0,0,0,8
 1217,2013,Brazil,South Africa,3,4,0,0,0,0,0,7
 1218,2013,Brazil,Zimbabwe,4,0,0,0,0,0,0,4
@@ -1324,7 +1324,7 @@
 1322,2014,Brazil,Uruguay,1,2,0,0,0,0,0,3
 1323,2014,Brazil,United States of America,1,4,0,0,0,0,0,5
 1324,2014,Brazil,Venezuela (Bolivarian Republic of),14,130,0,0,0,0,0,144
-1325,2014,Brazil,Viet Nam,4,0,0,0,0,0,0,4
+1325,2014,Brazil,Vietnam,4,0,0,0,0,0,0,4
 1326,2014,Brazil,Stateless,8,2,0,0,0,2,0,12
 1327,2014,Brazil,Yemen,0,1,0,0,0,0,0,1
 1328,2014,Brazil,South Africa,3,93,0,0,0,0,0,96
@@ -1450,7 +1450,7 @@
 1448,2015,Brazil,Uruguay,1,3,0,0,0,0,0,4
 1449,2015,Brazil,United States of America,1,9,0,0,0,0,0,10
 1450,2015,Brazil,Venezuela (Bolivarian Republic of),17,969,0,0,0,0,0,986
-1451,2015,Brazil,Viet Nam,4,0,0,0,0,0,0,4
+1451,2015,Brazil,Vietnam,4,0,0,0,0,0,0,4
 1452,2015,Brazil,Stateless,10,0,0,0,0,4,0,14
 1453,2015,Brazil,Yemen,0,2,0,0,0,0,0,2
 1454,2015,Brazil,South Africa,3,313,0,0,0,0,0,316
@@ -1584,7 +1584,7 @@
 1582,2016,Brazil,Uruguay,0,6,0,0,0,0,0,7
 1583,2016,Brazil,United States of America,0,14,0,0,0,0,0,15
 1584,2016,Brazil,Venezuela (Bolivarian Republic of),30,4302,0,0,0,0,0,4332
-1585,2016,Brazil,Viet Nam,0,0,0,0,0,0,0,0
+1585,2016,Brazil,Vietnam,0,0,0,0,0,0,0,0
 1586,2016,Brazil,Stateless,13,0,0,0,0,0,0,17
 1587,2016,Brazil,Yemen,0,6,0,0,0,0,0,6
 1588,2016,Brazil,South Africa,5,322,0,0,0,0,0,327
